@@ -62,7 +62,8 @@ const appPages: AppPage[] = [
     mdIcon: heartSharp,
   },
 ];
-const Menu: React.FC = () => {
+const Menu: React.FC = (props) => {
+
   // const SendToHome = () => {
   //     setData("This message was sent from Menu.tsx");
   //   }
@@ -169,7 +170,7 @@ const Menu: React.FC = () => {
 
           <IonItem>
           <IonLabel>Number Of Questions</IonLabel>
-          <IonInput type="text"></IonInput>
+          
           </IonItem>
          
 

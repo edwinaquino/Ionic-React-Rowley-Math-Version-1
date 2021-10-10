@@ -1,0 +1,25 @@
+.operator{
+    font-size: 50px;
+    text-align: right;
+}
+.operatorItem{
+    text-align: right;
+}
+
+.NumberCommon{
+    font-size: 5em;
+    text-align: right;
+}
+.NumberLimit{
+    font-size: 5em;
+    text-align: right;
+}
+.MathAnswerBox{
+    
+}
+.MathAnswerBoxInput{
+    text-align: right;
+    font-size: 45px;
+}
+.bgGray {   background-color: #eeeeee ; }
+.GridMargin {   margin-right: 10px;}
