@@ -13,6 +13,7 @@ Clone this repository to your local environment.
 
 ```bash
 git clone --depth=1 https://github.com/edwinaquino/Ionic-react-Basic-Math-App.git
+cd Ionic-react-Basic-Math-App
 ```
 
 Use the package manager [npm](https://www.npmjs.com/) to install this App.
