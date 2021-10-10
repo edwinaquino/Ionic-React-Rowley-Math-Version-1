@@ -15,7 +15,7 @@ Clone this repository to your local environment.
 git clone --depth=1 https://github.com/edwinaquino/Ionic-react-Basic-Math-App.git
 ```
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/) to install this App.
 
 ```bash
 npm install
