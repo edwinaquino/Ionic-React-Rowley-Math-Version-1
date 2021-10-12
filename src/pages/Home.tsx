@@ -18,7 +18,7 @@ const Home: React.FC = (props) => {
       <IonContent fullscreen>
       <div className="container">
       <h2>Welcome</h2>
-      <p>Location: http://localhost/IONIC/React/SCHOOl/IonicMathApp/IonicMathApp1/build/home</p>
+      <p>LOCALHOST Location: http://localhost/IONIC/React/SCHOOl/IonicMathApp/IonicMathApp1/build/home</p>
       <IonMenuToggle><IonButton>Start</IonButton></IonMenuToggle>
       <pre>{JSON.stringify(process.env, null, 2)}</pre>
     </div>

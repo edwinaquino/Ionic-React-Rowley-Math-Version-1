@@ -28,7 +28,7 @@ const App: React.FC = () => {
   return (
     <IonApp>
     {/* // LOCAHOST */}
-    <IonReactRouter basename={'/IONIC/React/SCHOOl/IonicMathApp/IonicMathApp1/build/'}> 
+    <IonReactRouter basename={'/'}> 
     {/* // REMOTE */}
     {/* <IonReactRouter basename={'/pre-school/math2/react/build/'}> */}
 
