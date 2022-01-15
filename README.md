@@ -1,6 +1,6 @@
-# Ionic + React Basic Matt App.
+# Ionic + React Basic Matt App. [20220115]
 
-The purpose of this Ionic + React application is for first grade school students to practice basic math problems. Students can practice Addition, Subtraction, Multiplication and Division problems.
+The purpose of this Ionic + React application is for first grade school students to practice basic math problems. Students can practice Addition, Subtraction, Multiplication and Division problems. his is a simple IONIC/REACT for 1st and 2nd grade students to practice their bsic math skills 
 
 ## Requirements
 
