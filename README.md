@@ -12,7 +12,7 @@ The purpose of this Ionic + React application is for first grade school students
 Clone this repository to your local environment.
 
 ```bash
-git clone --depth=1 https://github.com/edwinaquino/Ionic-react-Basic-Math-App.git
+git clone --depth=1 https://github.com/edwinaquino/Ionic-React-Rowley-Math-Version-1.git
 cd Ionic-react-Basic-Math-App
 ```
 
