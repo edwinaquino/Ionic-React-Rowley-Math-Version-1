@@ -13,7 +13,7 @@ Clone this repository to your local environment.
 
 ```bash
 git clone --depth=1 https://github.com/edwinaquino/Ionic-React-Rowley-Math-Version-1.git
-cd Ionic-react-Basic-Math-App
+cd Ionic-React-Rowley-Math-Version-1
 ```
 
 Use the package manager [npm](https://www.npmjs.com/) to install this App.
